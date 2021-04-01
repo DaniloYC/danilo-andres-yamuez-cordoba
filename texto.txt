@@ -1,0 +1,3 @@
+Esta actividad es muy interesante para a prender GIT, ya que es una herramienta que se usa en gran medida en el mundo de la programacion y el desarrollo de software.
+
+Hola :)
